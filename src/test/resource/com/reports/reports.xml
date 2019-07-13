@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="48.083572">
-<testcase classname="Automation Practise application end to end testing" name="Verify the Login functionality of the application" time="36.987024">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="50.850161">
+<testcase classname="Automation Practise application end to end testing" name="Verify the Login functionality of the application" time="42.032655">
 <system-out><![CDATA[Given User Launch the automation practise application.......................passed
 When User click on the sigin button in the header...........................passed
 And User enter the "arjun@gmail.com" in the email address field.............passed
@@ -9,7 +9,7 @@ And User click on the sigin button..........................................pass
 And User click on the signout button........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Automation Practise application end to end testing" name="Verify the Login functionality of the application 2" time="11.096548">
+<testcase classname="Automation Practise application end to end testing" name="Verify the Login functionality of the application 2" time="8.817506">
 <system-out><![CDATA[Given User Launch the automation practise application.......................passed
 When User click on the sigin button in the header...........................passed
 And User enter the "arjunn@gmail.com" in the email address field............passed

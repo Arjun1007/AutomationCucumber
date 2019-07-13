@@ -137,14 +137,14 @@ formatter.match({
   "location": "StepDefinition1.user_Launch_the_automation_practise_application()"
 });
 formatter.result({
-  "duration": 40997235158,
+  "duration": 29706427652,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition1.user_click_on_the_sigin_button_in_the_header()"
 });
 formatter.result({
-  "duration": 21679141530,
+  "duration": 7228705592,
   "status": "passed"
 });
 formatter.match({
@@ -157,7 +157,7 @@ formatter.match({
   "location": "StepDefinition1.user_enter_the_in_the_email_address_field(String)"
 });
 formatter.result({
-  "duration": 660093961,
+  "duration": 269696239,
   "status": "passed"
 });
 formatter.match({
@@ -170,21 +170,21 @@ formatter.match({
   "location": "StepDefinition1.user_enter_the_in_the_password_field(String)"
 });
 formatter.result({
-  "duration": 182037821,
+  "duration": 129572876,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition1.user_click_on_the_sigin_button()"
 });
 formatter.result({
-  "duration": 2860706326,
+  "duration": 2341599608,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition1.user_click_on_the_signout_button()"
 });
 formatter.result({
-  "duration": 2849481657,
+  "duration": 2356653450,
   "status": "passed"
 });
 formatter.scenario({
@@ -241,14 +241,14 @@ formatter.match({
   "location": "StepDefinition1.user_Launch_the_automation_practise_application()"
 });
 formatter.result({
-  "duration": 3797388133,
+  "duration": 1946606909,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition1.user_click_on_the_sigin_button_in_the_header()"
 });
 formatter.result({
-  "duration": 2323323059,
+  "duration": 1978215401,
   "status": "passed"
 });
 formatter.match({
@@ -261,7 +261,7 @@ formatter.match({
   "location": "StepDefinition1.user_enter_the_in_the_email_address_field(String)"
 });
 formatter.result({
-  "duration": 666365169,
+  "duration": 178548531,
   "status": "passed"
 });
 formatter.match({
@@ -274,21 +274,21 @@ formatter.match({
   "location": "StepDefinition1.user_enter_the_in_the_password_field(String)"
 });
 formatter.result({
-  "duration": 112455424,
+  "duration": 115187253,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition1.user_click_on_the_sigin_button()"
 });
 formatter.result({
-  "duration": 3045505719,
+  "duration": 1797380637,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition1.user_click_on_the_signout_button()"
 });
 formatter.result({
-  "duration": 3132643765,
+  "duration": 2801567396,
   "status": "passed"
 });
 });
